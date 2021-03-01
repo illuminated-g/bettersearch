@@ -64,6 +64,10 @@
 			<Item Name="Get Class Data.vi" Type="VI" URL="../Utilities/Item Graph/Get Class Data.vi"/>
 			<Item Name="Scrub Variants.vi" Type="VI" URL="../Utilities/Item Graph/Scrub Variants.vi"/>
 		</Item>
+		<Item Name="Strings" Type="Folder">
+			<Item Name="Explode String.vi" Type="VI" URL="../Utilities/Explode String.vi"/>
+			<Item Name="Implode String.vi" Type="VI" URL="../Utilities/Implode String.vi"/>
+		</Item>
 		<Item Name="Debug Configuration.vi" Type="VI" URL="../BetterSearch/Debug Configuration.vi"/>
 		<Item Name="LabVIEW Lib Paths.vi" Type="VI" URL="../Utilities/LabVIEW Lib Paths.vi"/>
 		<Item Name="Split Nested Members.vi" Type="VI" URL="../Search/Split Nested Members.vi"/>
